@@ -1,0 +1,36 @@
+.presentation {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  h1 {
+    color: #7f5af0;
+  }
+
+  p {
+    color: #94a1b2;
+  }
+}
+
+@media (max-width: 480px) {
+  .presentation {
+    p {
+      font-size: 80%;
+    }
+  }
+}
+
+@media (max-width: 350px) {
+  .presentation {
+    p {
+      font-size: 60%;
+    }
+
+    p:last-child {
+      margin-bottom: 40px;
+
+    }
+  }
+}
