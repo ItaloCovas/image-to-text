@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/image-to-text/static/css/main.01a96652.css",
+    "main.js": "/image-to-text/static/js/main.5c54f7d1.js",
+    "index.html": "/image-to-text/index.html",
+    "main.01a96652.css.map": "/image-to-text/static/css/main.01a96652.css.map",
+    "main.5c54f7d1.js.map": "/image-to-text/static/js/main.5c54f7d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01a96652.css",
+    "static/js/main.5c54f7d1.js"
+  ]
+}
